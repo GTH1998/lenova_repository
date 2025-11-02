@@ -9,6 +9,9 @@ int main(void)
 
     printf("FFFF\r\n");
     printf("FFFF\r\n");
+    printf("FFFF\r\n");
+    printf("FFFF\r\n");
+
 
     return;
 }
